@@ -1,5 +1,0 @@
-﻿<context>
-    <input pattern="12">
-        <output value="Приветик"/>
-    </input>
-</context>
